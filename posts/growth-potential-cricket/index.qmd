@@ -34,7 +34,7 @@ The real problem is not a lack of talent, but the difficulty of distinguishing *
 ### 3. The Solution: A Data-Driven Approach to Growth Potential
 
 Data science offers a structured way to reduce this uncertainty. Instead of relying solely on intuition or recent performances, teams can analyze how players develop over time using historical data from their domestic competitions and international matches.
-This approach does not aim to replace coaches, selectors, or scouts. Rather, it supports them by highlighting long-term patterns that are difficult to detect from individual matches. By examining trends, consistency, and context, data analysis helps answer a more meaningful question: *is this player improving in a way that suggests future success?*
+This approach does not aim to replace coaches, selectors, or scouts. Rather, it supports them by highlighting long-term patterns that are difficult to detect from individual matches. By examining trends, consistency, and context, data analysis helps answer a more meaningful question: is this player improving in a way that suggests future success?
 
 Importantly, a data-driven approach encourages patience. It allows teams to recognize slow but steady development and resist the temptation to chase short-term results. 
 Focusing on growth potential shifts attention away from single standout performances and toward sustained development. It encourages teams to value learning, adaptability, and consistency, qualities that are often better indicators of long-term success than raw averages.
@@ -54,7 +54,7 @@ Figure 1 highlights these early-career trends across the first 40 matches, where
 
 Short-term form can be misleading. Looking at cumulative contribution reveals which players turn consistency into real value for their teams.
 
-![Fig:2 Batter run accumulation over career (matches played)](img/batter_runs_accumulation_100_matches.png)
+![Fig:2 Batter run accumulation over career (matches played)](img/batsman_runs_accumulation_100_matches.png)
 
 Figure 2 tracks total runs scored at **20, 40, 60, 80, and 100 matches**. Although Batsman D starts strongly, Batsman C’s steady development leads to higher long-term output. This demonstrates how consistent performance compounds over time, reinforcing the importance of growth potential.
 For young players who have not yet played many matches, these long-term curves are not used as direct benchmarks. Instead, teams compare a young player’s early accumulation pattern (for example, across the first 20–40 matches) with the early-career trajectories of successful past players. A young player whose accumulation curve resembles that of proven performers is more likely to possess strong growth potential, even if their current totals are modest.
