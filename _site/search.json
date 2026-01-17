@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html",
+    "href": "posts/growth-potential-cricket/index.html",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "",
+    "text": "Cricket teams do not only care about how good a player is today. They also care about how much that player can improve in the future. This idea is often called a player’s growth potential. Identifying growth potential is difficult because improvement does not always happen in a straight line. This is where data science can help teams make better decisions.\nIn this blog, I explain how data science helps identify cricket players with high growth potential in a simple and easy-to-understand way. No technical background is needed—just an interest in cricket."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#introduction",
+    "href": "posts/growth-potential-cricket/index.html#introduction",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "",
+    "text": "Cricket teams do not only care about how good a player is today. They also care about how much that player can improve in the future. This idea is often called a player’s growth potential. Identifying growth potential is difficult because improvement does not always happen in a straight line. This is where data science can help teams make better decisions.\nIn this blog, I explain how data science helps identify cricket players with high growth potential in a simple and easy-to-understand way. No technical background is needed—just an interest in cricket."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#why-one-good-match-is-not-enough",
+    "href": "posts/growth-potential-cricket/index.html#why-one-good-match-is-not-enough",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Why one good match is not enough",
+    "text": "Why one good match is not enough\nCricket fans often get excited after seeing a young player score a century or take a five-wicket haul. While these moments are exciting, they do not always tell the full story. A single match can be influenced by many factors such as pitch conditions, weak opposition, or even luck.\nData science helps teams look beyond short-term performance. Instead of focusing on one great game, teams analyze performance across many matches and seasons. This helps answer an important question:\nIs the player improving consistently, or was this just a short burst of form?"
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#what-growth-potential-really-means",
+    "href": "posts/growth-potential-cricket/index.html#what-growth-potential-really-means",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "What “growth potential” really means",
+    "text": "What “growth potential” really means\nGrowth potential is about future improvement, not current ability alone. A player with high growth potential usually shows:\n\ngradual improvement over time\n\nincreasing consistency\n\nbetter performance against stronger opponents\n\nthe ability to adapt to different conditions\n\nData science looks for these patterns in historical data. It does not try to predict the future perfectly, but it helps estimate which players are more likely to improve."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#using-data-to-track-long-term-trends",
+    "href": "posts/growth-potential-cricket/index.html#using-data-to-track-long-term-trends",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Using data to track long-term trends",
+    "text": "Using data to track long-term trends\nEvery cricket match generates data. This includes basic statistics such as runs, wickets, strike rate, and economy rate. Over time, these numbers tell a story.\nFor example, consider two young batters with similar averages today. One batter may show a slow but steady increase in runs each season and perform well in difficult matches. The other may have big scores followed by many low scores, with no clear improvement. Even if their averages look similar, data trends suggest the first batter has higher growth potential.\nLooking at trends over time helps teams avoid being misled by short-term success."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#why-context-matters-in-cricket-data",
+    "href": "posts/growth-potential-cricket/index.html#why-context-matters-in-cricket-data",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Why context matters in cricket data",
+    "text": "Why context matters in cricket data\nRaw numbers alone are not enough. Context is important.\nData science allows teams to consider factors such as:\n\nthe player’s age\n\nnumber of matches played\n\nquality of opposition\n\nFor example, a bowler performing well against strong batting line-ups may show more growth potential than someone taking wickets against weaker teams. By combining performance data with context, teams get a clearer picture of true development."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#applying-the-same-idea-to-bowlers",
+    "href": "posts/growth-potential-cricket/index.html#applying-the-same-idea-to-bowlers",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Applying the same idea to bowlers",
+    "text": "Applying the same idea to bowlers\nThe same approach works for bowlers. Two bowlers may have similar wicket totals, but their development paths can be very different.\nOne bowler might slowly improve their economy rate and become more effective in pressure situations. Another might take wickets occasionally but struggle with consistency and control. Looking at performance over time helps identify which bowler is more likely to improve in the long run."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#learning-from-past-players",
+    "href": "posts/growth-potential-cricket/index.html#learning-from-past-players",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Learning from past players",
+    "text": "Learning from past players\nAnother useful technique is comparing young players to past successful cricketers. Data science allows teams to look at how great players performed early in their careers.\nIf a current player shows similar improvement patterns, teams can be more confident about their future development. This comparison does not guarantee success, but it provides helpful evidence when making long-term decisions."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#supporting-better-team-decisions",
+    "href": "posts/growth-potential-cricket/index.html#supporting-better-team-decisions",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Supporting better team decisions",
+    "text": "Supporting better team decisions\nUsing data science to assess growth potential helps teams in several ways:\n\nsmarter scouting decisions\n\nbetter team selection\n\nmore informed contract negotiations\n\nreduced overreaction to short-term form\n\nImportantly, data science does not replace coaches or selectors. Human judgement, experience, and intuition still matter. Data simply provides additional support to reduce guesswork."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#understanding-the-limits-of-data",
+    "href": "posts/growth-potential-cricket/index.html#understanding-the-limits-of-data",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Understanding the limits of data",
+    "text": "Understanding the limits of data\nIt is important to remember that data cannot capture everything. Injuries, mental strength, coaching quality, and opportunities all affect a player’s growth. Because of this, data science should be used as a supporting tool, not the final decision-maker."
+  },
+  {
+    "objectID": "posts/growth-potential-cricket/index.html#conclusion",
+    "href": "posts/growth-potential-cricket/index.html#conclusion",
+    "title": "How Data Science Helps Identify Cricket Players with High Growth Potential",
+    "section": "Conclusion",
+    "text": "Conclusion\nGrowth potential in cricket is hard to measure, but data science makes it easier to spot meaningful patterns. By focusing on long-term trends, performance context, and historical comparisons, teams can make more informed decisions about young players.\nWhile data cannot predict the future perfectly, it helps teams move beyond single matches and short-term form. In modern cricket, this approach plays an important role in identifying players who are likely to improve and succeed over time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "lab2_data_science_blog",
+    "section": "",
+    "text": "How Data Science Helps Identify Cricket Players with High Growth Potential\n\n\nA simple, non-technical explanation for fans and team decision-makers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 15, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]

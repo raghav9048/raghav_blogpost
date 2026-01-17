@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>lab2_data_science_blog</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Thu, 15 Jan 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <pubDate>Thu, 15 Jan 2026 08:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Mon, 12 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How Data Science Helps Identify Cricket Players with High Growth Potential</title>
+  <link>https://your-website-url.example.com/posts/growth-potential-cricket/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Cricket teams do not only care about how good a player is today. They also care about how much that player can improve in the future. This idea is often called a player’s <strong>growth potential</strong>. Identifying growth potential is difficult because improvement does not always happen in a straight line. This is where data science can help teams make better decisions.</p>
+<p>In this blog, I explain how data science helps identify cricket players with high growth potential in a simple and easy-to-understand way. No technical background is needed—just an interest in cricket.</p>
+</section>
+<section id="why-one-good-match-is-not-enough" class="level2">
+<h2 class="anchored" data-anchor-id="why-one-good-match-is-not-enough">Why one good match is not enough</h2>
+<p>Cricket fans often get excited after seeing a young player score a century or take a five-wicket haul. While these moments are exciting, they do not always tell the full story. A single match can be influenced by many factors such as pitch conditions, weak opposition, or even luck.</p>
+<p>Data science helps teams look beyond short-term performance. Instead of focusing on one great game, teams analyze performance across <strong>many matches and seasons</strong>. This helps answer an important question:<br>
+<strong>Is the player improving consistently, or was this just a short burst of form?</strong></p>
+</section>
+<section id="what-growth-potential-really-means" class="level2">
+<h2 class="anchored" data-anchor-id="what-growth-potential-really-means">What “growth potential” really means</h2>
+<p>Growth potential is about <strong>future improvement</strong>, not current ability alone. A player with high growth potential usually shows:</p>
+<ul>
+<li>gradual improvement over time<br>
+</li>
+<li>increasing consistency<br>
+</li>
+<li>better performance against stronger opponents<br>
+</li>
+<li>the ability to adapt to different conditions</li>
+</ul>
+<p>Data science looks for these patterns in historical data. It does not try to predict the future perfectly, but it helps estimate which players are more likely to improve.</p>
+</section>
+<section id="using-data-to-track-long-term-trends" class="level2">
+<h2 class="anchored" data-anchor-id="using-data-to-track-long-term-trends">Using data to track long-term trends</h2>
+<p>Every cricket match generates data. This includes basic statistics such as runs, wickets, strike rate, and economy rate. Over time, these numbers tell a story.</p>
+<p>For example, consider two young batters with similar averages today. One batter may show a slow but steady increase in runs each season and perform well in difficult matches. The other may have big scores followed by many low scores, with no clear improvement. Even if their averages look similar, data trends suggest the first batter has higher growth potential.</p>
+<p>Looking at <strong>trends over time</strong> helps teams avoid being misled by short-term success.</p>
+</section>
+<section id="why-context-matters-in-cricket-data" class="level2">
+<h2 class="anchored" data-anchor-id="why-context-matters-in-cricket-data">Why context matters in cricket data</h2>
+<p>Raw numbers alone are not enough. Context is important.</p>
+<p>Data science allows teams to consider factors such as:</p>
+<ul>
+<li>the player’s age<br>
+</li>
+<li>number of matches played<br>
+</li>
+<li>quality of opposition</li>
+</ul>
+<p>For example, a bowler performing well against strong batting line-ups may show more growth potential than someone taking wickets against weaker teams. By combining performance data with context, teams get a clearer picture of true development.</p>
+</section>
+<section id="applying-the-same-idea-to-bowlers" class="level2">
+<h2 class="anchored" data-anchor-id="applying-the-same-idea-to-bowlers">Applying the same idea to bowlers</h2>
+<p>The same approach works for bowlers. Two bowlers may have similar wicket totals, but their development paths can be very different.</p>
+<p>One bowler might slowly improve their economy rate and become more effective in pressure situations. Another might take wickets occasionally but struggle with consistency and control. Looking at performance over time helps identify which bowler is more likely to improve in the long run.</p>
+</section>
+<section id="learning-from-past-players" class="level2">
+<h2 class="anchored" data-anchor-id="learning-from-past-players">Learning from past players</h2>
+<p>Another useful technique is comparing young players to past successful cricketers. Data science allows teams to look at how great players performed early in their careers.</p>
+<p>If a current player shows similar improvement patterns, teams can be more confident about their future development. This comparison does not guarantee success, but it provides helpful evidence when making long-term decisions.</p>
+</section>
+<section id="supporting-better-team-decisions" class="level2">
+<h2 class="anchored" data-anchor-id="supporting-better-team-decisions">Supporting better team decisions</h2>
+<p>Using data science to assess growth potential helps teams in several ways:</p>
+<ul>
+<li>smarter scouting decisions<br>
+</li>
+<li>better team selection<br>
+</li>
+<li>more informed contract negotiations<br>
+</li>
+<li>reduced overreaction to short-term form</li>
+</ul>
+<p>Importantly, data science does <strong>not</strong> replace coaches or selectors. Human judgement, experience, and intuition still matter. Data simply provides additional support to reduce guesswork.</p>
+</section>
+<section id="understanding-the-limits-of-data" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-the-limits-of-data">Understanding the limits of data</h2>
+<p>It is important to remember that data cannot capture everything. Injuries, mental strength, coaching quality, and opportunities all affect a player’s growth. Because of this, data science should be used as a <strong>supporting tool</strong>, not the final decision-maker.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Growth potential in cricket is hard to measure, but data science makes it easier to spot meaningful patterns. By focusing on long-term trends, performance context, and historical comparisons, teams can make more informed decisions about young players.</p>
+<p>While data cannot predict the future perfectly, it helps teams move beyond single matches and short-term form. In modern cricket, this approach plays an important role in identifying players who are likely to improve and succeed over time.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/growth-potential-cricket/</guid>
+  <pubDate>Sat, 17 Jan 2026 09:11:22 GMT</pubDate>
+</item>
+</channel>
+</rss>
