@@ -9,7 +9,7 @@ categories: [Cricket, Data Science]
 
 Modern professional international and top-league cricket is a high-stakes business. Teams invest heavily in players through contracts, auctions, training programs, overseas tours, and long-term development pipelines. A single decision to back the wrong player can cost millions of dollars and years of lost competitive advantage.
 
-Cricket leagues such as the Indian Premier League (IPL), Big Bash League (BBL), and The Hundred operate in multi-million-dollar ecosystems. In the 2026 IPL mini-auction alone, franchises spent over **USD 26 million** on 77 players, many of whom were young and relatively unproven. These investments are made long before a player’s true long-term value is known.
+Cricket leagues such as the Indian Premier League (IPL), Big Bash League (BBL), and The Hundred operate in multi-million-dollar ecosystems. In the 2026 IPL mini-auction alone, franchises spent over **USD 26 million** on 77 players, many of whom were young and relatively unproven [@iplAuction2026]. These investments are made long before a player’s true long-term value is known.
 
 At the center of all these decisions lies a difficult question: **how do teams identify which young player has the growth potential to become a future star?** When teams get this wrong, the consequences extend beyond finances. Poor choices affect team balance and long-term planning.
 
@@ -49,7 +49,7 @@ Analysis of historical player careers suggests that growth potential is best und
 #### Metric 1: Performance Trend Over Time
 
 A player’s trajectory matters more than their current numbers. Gradual improvement as the number of matches increases often signals learning and adaptation.
-Figure 1 highlights these early-career trends across the first 40 matches, where Batsman A improves steadily while Batsman B remains volatile.
+Figure 1 highlights these early-career trends across the first 40 matches, where Batsman A improves steadily while Batsman B remains volatile. This steady upward pattern suggests that Batsman A is consistently learning and adapting as match experience increases, indicating stronger growth potential compared to Batsman B, whose performance appears more unstable.
 
 #### Metric 2: Long-Term Output and Accumulation
 
@@ -89,3 +89,5 @@ Data does not replace creativity, intuition, or experience in cricket. Instead, 
 Growth potential is difficult to measure, but ignoring it can be even more expensive. Teams that rely solely on current performance risk missing the players who improve steadily and deliver long-term value. By combining traditional scouting with careful data analysis, teams can make better-informed decisions while still trusting expert judgement.
 
 In an industry where one poor decision can cost millions, approaches like PotentialMeter help teams take **smarter risks**. The future of cricket talent identification lies in balancing human insight with data-driven evidence, investing not just in what a player has already done, but in who they are likely to become.
+
+## References
